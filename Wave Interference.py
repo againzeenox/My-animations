@@ -1,0 +1,33 @@
+from pdb import run
+from manim import *
+class rose(Scene):
+    def construct(self):
+        a = ValueTracker(-2 * PI)
+        axis = Axes()
+        sin = axis.plot(lambda x : np.sin(x)).set_color(RED)
+        sin2 = always_redraw(lambda : axis.plot(lambda x : np.sin(x + a.get_value())).set_color(BLUE))
+        sin3 = always_redraw(lambda : axis.plot(lambda x : np.sin(x + a.get_value()) + np.sin(x)).set_color(GREEN))
+        sin_label = Tex("$f(x) = sin(x)$").set_color(RED).to_corner(UL)
+        sin2_label = Tex("$f(x) = sin(x +  $").set_color(BLUE).to_edge(UP)
+        sin3_label = Tex("$f(x) = sin(x + sin(x) + $").set_color(GREEN).to_edge(DOWN).shift(LEFT)
+        a_value = always_redraw(lambda : DecimalNumber(num_decimal_places=2).set_value(a.get_value()).set_color(BLUE).next_to(sin2_label, RIGHT))
+        a_copy = always_redraw(lambda : DecimalNumber(num_decimal_places=2).set_value(a.get_value()).set_color(GREEN).next_to(sin3_label, RIGHT))
+        sin2_brac = Tex("$)$").next_to(a_value, RIGHT).set_color(BLUE)
+        sin3_brac = Tex("$)$").next_to(a_copy, RIGHT).set_color(GREEN)
+        self.play(Create(axis))
+        self.play(Write(sin_label))
+        self.play(Write(sin2_label))
+        self.play(Write(sin3_label))
+        self.play(Write(a_value))
+        self.play(Write(a_copy))
+        self.play(Write(sin2_brac))
+        self.play(Write(sin3_brac))
+        self.play(Create(sin))
+        self.play(Create(sin2))
+        self.play(Create(sin3))
+        self.wait()
+        self.play(a.animate.set_value(5 * PI), run_time=10)
+        self.wait()
+        self.play(a.animate.set_value(-5 * PI), run_time=20)
+        self.wait()
+        
