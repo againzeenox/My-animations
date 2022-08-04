@@ -16,4 +16,8 @@ BYE! -->
 
 <!-- SAMES -->
 
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/againzeenoxCOMMUNITY?label=Subreddit%20followers&style=social)](https://www.reddit.com/r/againzeenoxCOMMUNITY/)
+[![Subreddit followers](https://img.shields.io/reddit/subreddit-subscribers/againzeenoxCOMMUNITY?label=Subreddit%20followers&style=social)](https://www.reddit.com/r/againzeenoxCOMMUNITY/)
+
+[![My Reddit Karma](https://img.shields.io/reddit/user-karma/combined/againzeenox?label=My%20Reddit%20karma&style=social)](https://www.reddit.com/user/againzeenox)
+
+![](l)
