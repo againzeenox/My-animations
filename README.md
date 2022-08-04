@@ -14,3 +14,6 @@ BYE! -->
 
 [![GitHub top language](https://img.shields.io/github/languages/top/againzeenox/My-animations)](https://github.com/againzeenox/Project)
 
+<!-- SAMES -->
+
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/againzeenoxCOMMUNITY?label=Subreddit%20followers&style=social)](https://www.reddit.com/r/againzeenoxCOMMUNITY/)
