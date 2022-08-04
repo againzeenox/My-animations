@@ -10,5 +10,7 @@ BYE! -->
 
 [![GitHub Followers](https://img.shields.io/github/followers/againzeenox?label=GitHub%20followers&style=social)](https://github.com/againzeenox)
 
+[![GitHub Followers](https://img.shields.io/github/forks/againzeenox/My-animations?label=Repo%20Forks&style=social)](https://github.com/againzeenox/My-animations)
+
 [![GitHub top language](https://img.shields.io/github/languages/top/againzeenox/My-animations)](https://github.com/againzeenox/Project)
 
