@@ -18,6 +18,5 @@ BYE! -->
 
 [![Subreddit followers](https://img.shields.io/reddit/subreddit-subscribers/againzeenoxCOMMUNITY?label=Subreddit%20followers&style=social)](https://www.reddit.com/r/againzeenoxCOMMUNITY/)
 
-[![My Reddit Karma](https://img.shields.io/reddit/user-karma/combined/againzeenox?label=My%20Reddit%20karma&style=social)](https://www.reddit.com/user/againzeenox)
+[![Reddit Likes](https://img.shields.io/reddit/user-karma/link/againzeenox?label=Reddit%20Likes&style=social)](https://www.reddit.com/user/againzeenox)
 
-![](l)
