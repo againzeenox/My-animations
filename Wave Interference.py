@@ -97,7 +97,7 @@ class rose(Scene):
         Youtube : https://www.youtube.com/channel/UCk71twvi6p8i6AqYtFng95g
         Instagram : https://www.instagram.com/againzeenox/
         Reddit : https://www.reddit.com/user/againzeenox
-        Discord : againzeenox#5274"""
+        Discord : againzeenox#7760"""
 
         """Thanks you Grant Sanderson for making ManimCE, ManimGL and ManimCairo
         Thanks you developers of each library for helping and maintaining Manim"""

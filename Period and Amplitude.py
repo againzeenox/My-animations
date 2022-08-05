@@ -160,7 +160,7 @@ class PeriodAndAmplitude(Scene):
 Youtube : https://www.youtube.com/channel/UCk71twvi6p8i6AqYtFng95g
 Instagram : https://www.instagram.com/againzeenox/
 Reddit : https://www.reddit.com/user/againzeenox
-Discord : againzeenox#5274"""
+Discord : againzeenox#7760"""
 
 #This video is inspired by Desmos.
 #Link for the Desmos file :
