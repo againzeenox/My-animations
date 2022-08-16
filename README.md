@@ -44,4 +44,8 @@ BYE! -->
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/againzeenox/My-animations?label=Repo%20code%20size&style=plastic)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/againzeenox/My-animations?label=Repo%20size)]
+![GitHub repo size](https://img.shields.io/github/repo-size/againzeenox/My-animations?label=Repo%20size)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/againzeenox/My-animations)
+
+![GitHub contributors](https://img.shields.io/github/contributors/againzeenox/My-animations)
