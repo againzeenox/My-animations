@@ -6,7 +6,7 @@ I use ManimCE to animate stuff.
 It's a free-to-use Python library created by Grant Sanderson a.k.a. 3Blue1Brown.
 I use Python because it's the only programming language I know. 
 BYE! -->
-# THIS REPO IS NO LONGER BEING MAINTAINED, CONTINUATION OF THSI REPO IS AVAILABLE AT [![HERE!](https://github.com/againzeenox/ManimCE)]
+# THIS REPO IS NO LONGER BEING MAINTAINED, CONTINUATION OF THIS REPO IS AVAILABLE AT [HERE!](https://github.com/againzeenox/ManimCE)
 
 
 
